@@ -39,24 +39,6 @@ Dataset is from [Kaggle: Medical Cost Personal Dataset](https://www.kaggle.com/d
 
 ---
 
-## 🔍 Data Analysis
-
-### Age Distribution
-
-![Age Distribution](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/age_distribution.png)
-
-### BMI Distribution
-
-![BMI Distribution](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/bmi_distribution.png)
-
-### Smoker vs Charges
-
-![Smoker Distribution](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/smoker_distribution.png)
-
-> Visualizations help identify relationships between features and insurance costs.
-
----
-
 ## 🧹 Data Preprocessing
 
 * Checked for missing values (none).
